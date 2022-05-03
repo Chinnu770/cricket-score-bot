@@ -12,3 +12,4 @@ This bot can fetch live score from ESPNcricinfo and send live score to Telegram 
 - Set webhook to your server where the host your file https://api.telegram.org/bot(api-token)/setwebhook?url=(server-url)/bot.php
 - Voila! Your bot is running.
 
+![Working](bot_img.png)
