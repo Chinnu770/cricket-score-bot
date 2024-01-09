@@ -16,7 +16,7 @@ $score= [];
 if(isset($_GET['url'])){
     $url = $_GET['url'];
 }else{
-    $url = "https://www.espncricinfo.com/series/indian-premier-league-2022-1298423/lucknow-super-giants-vs-mumbai-indians-37th-match-1304083/live-cricket-score"; //Paste match link here
+    $url = "https://icinfo.com/series/west-indies-in-australia-2023-24-1375837/cricket-australia-xi-vs-west-indians-tour-match-1415302/live-cricket-score"; //Paste match link here
 }
 
 try
