@@ -1,5 +1,5 @@
 <?php
-$token = '###################'; //Insert telegram api bot token!
+$token = '6281601464:AAGG46HfGlBUAJTeojKFg3QIXB0XBm65y5I'; //Insert telegram api bot token!
 $update = json_decode(file_get_contents('php://input'), TRUE);
 $msg = $update['message']['text'];
 $userid = $update['message']['chat']['id'];
